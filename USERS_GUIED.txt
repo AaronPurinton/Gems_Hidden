@@ -1,0 +1,28 @@
+==== GEMS HIDDEN ====
+
+START - exit the title the screen and pause the game
+B - run
+A - pick up the purple shiny glitter stuff
+Dpad - move in that direction
+
+HINT: your follower will point you in the direction of a real glitter if you stop moving.
+HINT: there is fake glitter, be aware of your partner's direction.
+
+
+=====CREDITS=====
+
+Story Writer:
+	Aaron Purinton
+Concept Artist:
+	Rose Connolly
+Music Director:
+	Mother Nature
+Programmer:
+	MissingNo
+Producer:
+	UMW CPSC - 305
+Moral Support Dog:
+	Grace Connolly
+Special Thanks:
+	Ian Finlayson
+	SpritersResource.com
